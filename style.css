@@ -1,0 +1,48 @@
+body {
+  font-family: 'Lora', serif;
+  color: #494949;
+  font-size: 18px;
+  font-weight: lighter;
+  line-height: 1.6;
+}
+.banner {
+  background-image: url(https://source.unsplash.com/random);
+  height: 350px;
+  width: 1500px;
+  text-align: center;
+  padding-top: 150px;
+  color: white;
+}
+
+#first-title {
+  font-family: 'Montserrat', sans-serif;
+}
+.titles-font {
+  font-family: 'Montserrat', sans-serif;
+  color: #A0A0A0;
+  font-weight: lighter;
+}
+
+.italic {
+  text-decoration: italic;
+}
+
+#link {
+  text-decoration: none;
+  background-color: #E9FDF0;
+  font-size: 25px;
+  color: #494949;
+}
+
+a:hover {
+  background-color: #7DFFB3;
+}
+
+.container {
+  margin: 0 auto;
+  width: 700px;
+}
+
+.content h1 {
+  font-size: 30px;
+}
